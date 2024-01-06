@@ -1,0 +1,53 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  background-color: #3877d6;
+}
+.container {
+  width: 95%;
+  margin: 0 auto;
+  background-color: #fff;
+  margin-top: 10px;
+  padding: 20px;
+}
+.wrapper {
+  margin-bottom: 20px;
+}
+h1 {
+  text-align: center;
+  font-family: Verdana;
+  color: rgb(84, 84, 172);
+}
+.data {
+  width: 80%;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.data select {
+  width: 200px;
+  padding: 3px;
+  margin: 20px 0px;
+  float: left;
+  position: relative;
+  margin-right: 20px;
+}
+
+.submit {
+  font-size: 15px;
+  margin-top: 18px;
+  width: 100px;
+  padding: 6px;
+  border: none;
+  font-weight: bold;
+  outline: none;
+  background: rgb(84, 84, 172);
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#b {
+  margin-left: 450px;
+}
